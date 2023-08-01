@@ -8,3 +8,7 @@ There are **[8-10 sounds](. "Depends on the Minecraft version you're using.")** 
 ## How to update
 
 Simply **delete** the **DeathSound.zip** and **replace** it with the **new** one!
+
+## Note
+
+Let me know if you want this datapack for versions below 1.15 by **<a href="https://github.com/El-Kavio/DeathSound/issues" target="_blank">opening an issue**
