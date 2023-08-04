@@ -12,3 +12,7 @@ Simply **delete** the **DeathSound.zip** and **replace** it with the **new** one
 ## Note
 
 Let me know if you want this datapack for versions below 1.15 by **<a href="https://github.com/El-Kavio/DeathSound/issues" target="_blank">opening an issue**
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kavio)
