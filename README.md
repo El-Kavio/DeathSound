@@ -5,9 +5,11 @@
 **DeathSound** is a **datapack** that plays a **sound** to all players whenever one of them dies.<br>
 There are **[8-10 sounds](. "Depends on the version you're using.")** and their **variants**, selected to add a more fearsome experience to yours and others deaths.
 
-## Example video
-
+<details><summary><b>Example video</b></summary>
+  
 https://github.com/El-Kavio/DeathSound/assets/140896938/d3ca3724-9d15-4743-9222-a49732d3b66e
+
+</details>
 
 ## How to update
 
