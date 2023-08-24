@@ -5,7 +5,7 @@
 ---
 
 **DeathSound** is a **datapack** that plays a **sound** to all players whenever one of them dies.<br>
-There are **[17-23 sounds](. "Depends on the Minecraft version you're using.")** and their **variants**, selected to add a more fearsome experience to yours and others deaths.
+There are **[17-23 sounds](. "Depends on the version you're using. (updated from latest releases of each version)")** and their **variants**, selected to add a more fearsome experience to yours and others deaths.
 
 <details><summary><b>Example video</b></summary>
   
